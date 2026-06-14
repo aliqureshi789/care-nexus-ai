@@ -153,4 +153,4 @@ The CARE‑NEXUS AI Web Dashboard provides:
 
 👨‍💻 Author
 Abdul Ali Qureshi
-HICT Specialist – Healthcare IT & AI Solutions
+Specialist – Healthcare IT & AI Solutions
