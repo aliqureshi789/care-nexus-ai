@@ -229,6 +229,46 @@ Healthcare IT | AI | Workflow Automation
 #### Approval / Escalation / Security Scenario
 ![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-11_16h55_34.png)
 
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-11_16h55_54.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-11_17h00_06.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-11_17h19_19.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-11_17h45_57.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h35_21.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h35_37.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h35_55.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h36_30.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h36_49.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h37_20.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h37_31.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h37_47.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h38_58.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h39_29.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-13_14h40_11.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-14_09h27_30.png)
+
+**Azure - App Registration / Graph**
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-14_14h38_06.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-14_14h38_17.png)
+
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-14_14h38_28.png)
+
 
 
 #### Care-Nexus-AI-Demo Screen Shot Docx
