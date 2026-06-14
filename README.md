@@ -236,7 +236,7 @@ Healthcare IT | AI | Workflow Automation
 ![Security](docs/demo/demo-screenshots/Care-Nexus-AI-DemoScreenShot.docx)
 
 #### Care-Nexus-AI-Demo Screen Shot Docx
-![Security](docs/demo/demo-screenshots/Care-Nexus-AI-DemoScreenShot.docx)
+![Security](docs/demo/demo-screenshots/AI-FoundryIQ/Care-Nexus-AI-DemoScreenShot_FoundryIQ.docx)
 
 ---
 
