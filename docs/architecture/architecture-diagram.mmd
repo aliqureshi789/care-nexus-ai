@@ -1,0 +1,54 @@
+
+
+
+
+
+flowchart LR
+
+%% =========================
+%% USER & INTERFACE
+%% =========================
+U[User / Dashboard UI] --> UI[CARE-NEXUS Interface]
+
+UI --> ORCH[Agent Orchestrator API]
+
+%% =========================
+%% CORE AGENTS
+%% =========================
+ORCH --> WC[Work Context Service]
+ORCH --> KG[Knowledge Service]
+ORCH --> RG[Reasoning Service]
+
+%% =========================
+%% MICROSOFT IQ LAYERS
+%% =========================
+
+%% Work IQ
+WC --> WORKIQ["Work IQ Layer<br/>User Context / Role / Workflow Signals"]
+
+%% Foundry IQ
+KG --> FOUNDRYIQ["Foundry IQ Layer<br/>Policy Retrieval & Knowledge Grounding"]
+
+%% Fabric IQ
+RG --> FABRICIQ["Fabric IQ Layer<br/>Structured Data & Business Semantics"]
+
+%% =========================
+%% INTERNAL PROCESSING
+%% =========================
+WORKIQ --> CTX["Context Analysis"]
+FOUNDRYIQ --> KB["Policy Knowledge Base"]
+FABRICIQ --> LOGIC["Reasoning & Decision Logic"]
+
+%% =========================
+%% DECISION ENGINE
+%% =========================
+CTX --> DECISION
+KB --> DECISION
+LOGIC --> DECISION
+
+DECISION[Decision Engine]
+%% OUTPUT
+%% =========================
+DECISION --> RESP["Explainable Output<br/>Recommendation + Reasoning<br/>Explanation + Next Action"]
+
+RESP --> UI

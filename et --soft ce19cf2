@@ -1,0 +1,62 @@
+[33m93a0766[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Removed secrets and added safe config
+[33m575400f[m Initial commit - CARE-NEXUS AI with SharePoint integration and Foundry IQ
+[33m8f273b9[m Merge branch 'main' of https://github.com/aliqureshi789/care-nexus-ai
+[33mce19cf2[m Final Changes
+[33m7a2f6e4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update README.md
+[33m11bf70f[m Update README.md
+[33m2c23545[m Update README.md
+[33mca573eb[m Update README.md
+[33m2d230c2[m Update README.md
+[33ma6d1f24[m Update README.md
+[33mf97da2a[m Update README.md
+[33mfd0a20a[m Update README.md
+[33m92fb2fb[m Update README.md
+[33m57ed802[m Update README.md
+[33m38e319a[m Update README.md
+[33m9056fe4[m Update README.md
+[33m03eb145[m Update README.md
+[33ma5e1130[m Update README.md
+[33m2432235[m Update README.md
+[33m3a1755d[m Update architecture-diagram.mmd
+[33m757f77d[m Update architecture-diagram.mmd
+[33m5ce863b[m Update architecture-diagram.mmd
+[33m3c67fbc[m Update architecture-diagram.mmd
+[33m0b3b5db[m Update architecture-diagram.mmd
+[33m940cd61[m Update architecture-diagram.mmd
+[33m4f001ad[m Update project-summary.md
+[33m5dc8e26[m Update judging-alignment.md
+[33m16d5796[m Update judging-alignment.md
+[33m52fa703[m Update innovation-highlights.md
+[33md38cf68[m Update disclaimer-and-safety.md
+[33m10c99a9[m Update project-summary.md
+[33m448f984[m Update demo-script.md
+[33me7c610a[m Update README.md
+[33m1005a3b[m Update README.md
+[33m2297e08[m Update judging-alignment.md
+[33m26e53f6[m Add demo screenshots
+[33m885e755[m Merge branch 'main' of https://github.com/aliqureshi789/care-nexus-ai  Please enter a commit message to explain why this merge is necessary,
+[33m92b0708[m Add demo screenshots (PNG)
+[33m442a99b[m Day 3.5 - demo assets, script, screenshots, and README updates
+[33m3ae1469[m Add files via upload
+[33ma9b4330[m Update
+[33m8271755[m Day 3 - complete demo dashboard UI and CORS support
+[33md551843[m Day 2.5 - file-based policy retrieval
+[33ma6dda83[m Add policy files for AI knowledge base (Day 2.5)
+[33mae585d8[m Track empty data folders using .gitkeep
+[33m1ef26e8[m Resolved merge conflict in .gitignore and completed backend setup
+[33mda82f0c[m Add backend API MVP with Swagger and agent services
+[33mad3a108[m Add backend API MVP with Swagger and agent service
+[33m2abe5e9[m Update .gitignore
+[33mc0d80ce[m Update problem-statement.md
+[33m767cca3[m Added design documentation
+[33m01eac6f[m Delete docs/design
+[33m462e362[m Create design
+[33m03854fe[m Update sample-prompts.md
+[33m53de5ad[m Update demo-script.md
+[33m4748672[m Update solution-overview.md
+[33mf7680e8[m Update README.md
+[33m1df23c8[m Update architecture-diagram.mmd
+[33mbd9b31e[m Merge branch 'main' of https://github.com/aliqureshi789/care-nexus-a
+[33m30851d7[m Initial project structure
+[33m3001aa9[m Update README.md
+[33m3e1220a[m Initial commit

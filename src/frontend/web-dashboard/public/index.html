@@ -1,0 +1,74 @@
+<!DOCTYPE html><!DOCTYPE htmlen">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CARE-NEXUS AI Dashboard</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <header class="hero">
+      <h1>CARE-NEXUS AI</h1>
+      <p>Enterprise Workflow Intelligence Agent Demo</p>
+    </header>
+
+    <section class="card">
+      <h2>Request Input</h2>
+
+      <input id="requestId" value="REQ-001" />&nbsp;
+      <input id="userName" value="Abdul Ali Qureshi" />&nbsp;
+      <input id="userRole" value="HICT Specialist" />&nbsp;
+      <input id="department" value="Information Management" />&nbsp;
+
+      <select id="requestType">
+        <option>Approval Review</option>&nbsp;
+        <option>Security Review</option>&nbsp;
+        <option>Escalation Review</option>&nbsp;
+      </select>&nbsp;
+      <textarea id="query">Review this approval request and tell me whether it should be approved.</textarea>
+
+      <div class="actions">
+        <button id="processBtn">Process Request</button>
+        <button id="sampleApproveBtn">Load Approval</button>
+        <button id="sampleEscalateBtn">Load Escalate</button>
+        <button id="sampleSecurityBtn">Load Security</button>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Decision Output</h2>
+
+      <p><strong>Recommendation:</strong> <span id="recommendation">—</span></p>
+      <p><strong>Confidence:</strong> <span id="confidence">—</span></p>
+      <p><strong>Policy Reference:</strong> <span id="policyReference">—</span></p>
+      <p><strong>Next Action:</strong> <span id="nextAction">—</span></p>
+      <p><strong>Timestamp:</strong> <span id="timestampUtc">—</span></p>
+
+      <h3>Policy Summary</h3>
+      <p id="policySummary">—</p>
+
+      <h3>Citation</h3>
+      <p id="citation"></p>
+
+      <h3>Source System</h3>
+      <p id="sourceSystem"></p>
+
+      <h3>Reasoning</h3>
+      <ul id="reasoningList"></ul>
+
+      <h3>Explanation</h3>
+      <ul id="explanationList"></ul>
+    </section>
+
+    <section class="card">
+      <h2>API Status</h2>
+      <div id="apiStatus">Checking backend...</div>
+    </section>
+
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

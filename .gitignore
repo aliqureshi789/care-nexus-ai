@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# User files
+*.user
+*.log
+
+# Environment / local
+.env
+
+
+# Secrets
+appsettings.json
+appsettings.Development.json
+
+
+
