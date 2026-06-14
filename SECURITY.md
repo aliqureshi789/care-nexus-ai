@@ -156,4 +156,4 @@ CARE‑NEXUS AI follows key enterprise security principles:
 
 👨‍💻 Maintainer
 Abdul Ali Qureshi
-HICT Specialist – Healthcare IT & AI Solutions
+Specialist – Healthcare IT & AI Solutions
