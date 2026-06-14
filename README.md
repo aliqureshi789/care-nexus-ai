@@ -226,14 +226,10 @@ Healthcare IT | AI | Workflow Automation
 
 ### 📸 Screenshots
 
-#### Approval Scenario
-![Approval](docs/demo/demo-screenshots/2026-06-11_09h42_49.png)
+#### Approval / Escalation / Security Scenario
+![Approval](docs/demo/demo-screenshots/AI-FoundryIQ/2026-06-11_16h55_34.png)
 
-#### Escalation Scenario
-![Escalation](docs/demo/demo-screenshots/2026-06-11_09h44_51.png)
 
-#### Security Scenario
-![Security](docs/demo/demo-screenshots/Care-Nexus-AI-DemoScreenShot.docx)
 
 #### Care-Nexus-AI-Demo Screen Shot Docx
 ![Security](docs/demo/demo-screenshots/AI-FoundryIQ/Care-Nexus-AI-DemoScreenShot_FoundryIQ.docx)
